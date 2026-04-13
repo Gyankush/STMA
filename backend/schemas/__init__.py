@@ -1,0 +1,1 @@
+# STMA Backend - Schemas Module
